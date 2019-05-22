@@ -1,0 +1,7 @@
+{
+  "headless": "true",
+  "qemu_binary": "/usr/libexec/qemu-kvm",
+  "version": "1.0.0",
+  "vm_name": "test",
+  "vnc_vrdp_bind_address": "0.0.0.0"
+}

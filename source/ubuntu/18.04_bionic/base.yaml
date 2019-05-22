@@ -139,7 +139,8 @@ builders:
   disk_compression: false
   disk_discard: ignore
   disk_image: false
-  disk_interface: virtio-scsi
+#  disk_interface: virtio-scsi
+  disk_interface: virtio
   format: raw
   iso_skip_cache: false
   machine_type: pc
